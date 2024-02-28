@@ -1,0 +1,298 @@
+{
+	"basics": {
+		"name": "Jhonny Alvino C.",
+		"label": "Ingeniero informático y desarrollador full stack con más de 5 años de experiencia, me apasiona crear soluciones web que sean funcionales, atractivas y escalables.",
+		"image": "/alvinoDev.webp",
+		"email": "jhonnyalvin07@gmail.com",
+		"phone": "+591 618888888",
+		"url": "https://alvinodev.github.io/portfolio/",
+		"summary": "+3 años de experiencia como desarrollador web full stack. Apasionado por la tecnología y la creación de soluciones web innovadoras. Vivo en Tarija, Bolivia, y he trabajado en una variedad de proyectos, desde pequeños sitios web hasta grandes aplicaciones web. Me apasiona crear soluciones web que sean fáciles de usar y que se vean geniales.",
+		"location": {
+			"address": "",
+			"postalCode": "08820",
+			"city": "Tarija",
+			"countryCode": "BO",
+			"region": "Bolivia"
+		},
+		"profiles": [
+			{
+				"network": "LinkedIn",
+				"username": "jhonnyalvinocoria",
+				"url": "https://www.linkedin.com/in/jhonnyalvinocoria"
+			},
+			{
+				"network": "X",
+				"username": "AlvinoJhonny",
+				"url": "https://twitter.com/AlvinoJhonny"
+			},
+			{
+				"network": "GitHub",
+				"username": "alvinodev",
+				"url": "https://github.com/alvinodev"
+			}
+		]
+	},
+	"work": [
+		{
+			"name": "L. Lopez",
+			"position": "Junior Full Stack Developer & Designer UI/UX",
+			"url": "https://www.dentimagen3d.com",
+			"startDate": "2022-01-01",
+			"endDate": null,
+			"summary": "Desarrollé una aplicación web para la gestión de servicios radiográficos. La aplicación permitió registrar ventas, visualización de imágenes radiográficas, gestión de historiales médicos, generar informes, análisis de ventas y rendimiento, además de la entrega rápida de valor a los pacientes.",
+			"highlights": ["Started the company"]
+		},
+		{
+			"name": "Activos Fijos de Tarija",
+			"position": "Junior Developer Web",
+			"url": "local",
+			"startDate": "2019-07-01",
+			"endDate": "2019-12-27",
+			"summary": "Durante mi pasantía en Activos Fijos de Tarija, colaboré en el desarrollo de un sistema web para la gestión de inventario y activos de la empresa.",
+			"highlights": [""]
+		}
+	],
+	"volunteer": [
+		{
+			"organization": "Organization",
+			"position": "Volunteer",
+			"url": "https://organization.com/",
+			"startDate": "2012-01-01",
+			"endDate": "2013-01-01",
+			"summary": "Description…",
+			"highlights": ["Awarded 'Volunteer of the Month'"]
+		}
+	],
+	"education": [
+		{
+			"institution": "Universidad Autónoma Juan Misael Saracho",
+			"url": "https://www.uajms.edu.bo/",
+			"area": "Ingeniería en Informática",
+			"studyType": "Ingeniería",
+			"startDate": "2021-10-01",
+			"endDate": "2016-01-01",
+			"score": "8.0",
+			"courses": ["DB1101 - Basic SQL"]
+		}
+	],
+	"awards": [
+		{
+			"title": "Award",
+			"date": "2014-11-01",
+			"awarder": "Company",
+			"summary": "There is no spoon."
+		}
+	],
+	"certificates": [
+		{
+			"name": "Certificate",
+			"date": "2021-11-07",
+			"issuer": "Company",
+			"url": "https://certificate.com"
+		}
+	],
+	"publications": [
+		{
+			"name": "Publication",
+			"publisher": "Company",
+			"releaseDate": "2014-10-01",
+			"url": "https://publication.com",
+			"summary": "Description…"
+		}
+	],
+	"skills": [
+		{
+			"name": "HTML",
+			"level": "Advanced",
+			"keywords": ["Desarrollo Web", "Frontend"]
+		},
+		{
+			"name": "CSS",
+			"level": "Intermediate",
+			"keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+		},
+		{
+			"name": "JavaScript",
+			"level": "Intermediate",
+			"keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+		},
+		{
+			"name": "Tailwind",
+			"level": "Beginner",
+			"keywords": [
+				"Desarrollo Web",
+				"Frontend",
+				"CSS Framework",
+				"Diseño Responsive"
+			]
+		},
+		{
+			"name": "TypeScript",
+			"level": "Beginner",
+			"keywords": [
+				"Desarrollo Web",
+				"Frontend",
+				"Backend",
+				"JavaScript Superset"
+			]
+		},
+		{
+			"name": "Node",
+			"level": "Beginner",
+			"keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+		},
+		{
+			"name": "Next.js",
+			"level": "Beginner",
+			"keywords": [
+				"Desarrollo Web",
+				"Frontend",
+				"React Framework",
+				"SSR",
+				"Static Generation"
+			]
+		},
+		{
+			"name": "Astro",
+			"level": "Beginner",
+			"keywords": ["Desarrollo Web", "Frontend", "Framework JS Moderno"]
+		},
+		{
+			"name": "React",
+			"level": "Beginner",
+			"keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+		},
+		{
+			"name": "Git",
+			"level": "Intermediate",
+			"keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+		},
+		{
+			"name": "GitHub",
+			"level": "Intermediate",
+			"keywords": [
+				"Control de Versiones",
+				"Colaboración",
+				"Código Fuente",
+				"Git"
+			]
+		},
+		{
+			"name": "MySQL",
+			"level": "Intermediate",
+			"keywords": [
+				"Bases de Datos",
+				"SQL",
+				"Almacenamiento de Datos",
+				"Backend"
+			]
+		},
+		{
+			"name": "PHP",
+			"level": "Intermediate",
+			"keywords": ["Desarrollo Web", "Backend", "Fullstack"]
+		}
+	],
+	"languages": [
+		{
+			"language": "Spanish",
+			"fluency": "Native speaker"
+		},
+		{
+			"language": "English",
+			"fluency": "Basic"
+		}
+	],
+	"interests": [
+		{
+			"name": "Wildlife",
+			"keywords": ["Ferrets", "Unicorns"]
+		}
+	],
+	"references": [
+		{
+			"name": "Lucía López Bertram",
+			"reference": "lucialopezbertram@gmail.com"
+		}
+	],
+	"projects": [
+		{
+			"name": "Página Web CLRTD",
+			"isActive": true,
+			"description": "Desarrollé la página web de Centre for Labour Relations Training & Development (CLRTD). La página web presenta una estética moderna y profesional que refleja la imagen del centro. Incluye información sobre los programas de formación, las conferencias, los eventos, los profesores y mucho más. Se integró un calendario de eventos para facilitar la visualización de las próximas actividades del centro. Se agregaron enlaces a un carrito de compra para facilitar la inscripción a las conferencias y cursos.",
+			"highlights": [
+				"Rediseño web",
+				"Diseño web responsive",
+				"Calendario de eventos",
+				"Enlaces a un carrito de compra",
+				"Optimización SEO"
+			],
+			"url": "https://lrtdcentre.ca/",
+			"github": ""
+		},
+		{
+			"name": "Rediseño web de IALLJ",
+			"isActive": true,
+			"description": "Realicé un rediseño completo del sitio web de la Asociación Internacional de Revistas de Derecho Laboral (IALLJ). Se migró el sitio web a la plataforma WordPress, facilitando la gestión de contenidos y actualizaciones. Se creó un diseño web moderno y adaptable a cualquier dispositivo, mejorando la experiencia de usuario en móviles y tablets. Se simplificó la navegación, se optimizó la velocidad de carga y se agregaron nuevos elementos interactivos.",
+			"highlights": [
+				"Rediseño web",
+				"Diseño web responsive",
+				"Diseño web moderno y profesional",
+				"Optimización SEO"
+			],
+			"url": "https://www.labourlawjournals.com/",
+			"github": ""
+		},
+		{
+			"name": "Página Web FEBOCI",
+			"isActive": false,
+			"description": "Desarrollé la página web oficial de la Federación Boliviana de Ciclismo (FEBOCI), la página web presenta una estética moderna y profesional que refleja la imagen de la federación. Brinda información clara y completa sobre la federación, sus actividades y evento. Facilita la inscripción a las competencias de ciclismo.",
+			"highlights": [
+				"Diseño web responsive",
+				"Diseño web moderno y profesional",
+				"Optimización SEO"
+			],
+			"url": "https://feboci.com.bo/",
+			"github": ""
+		},
+		{
+			"name": "Página Web SUR ENERGY",
+			"isActive": true,
+			"description": "Diseñé y desarrollé la página web oficial de la empresa SUR ENERGY, incluyendo un diseño web responsive y atractivo, integración de contenido informativo y multimedia, optimización SEO para mejorar el posicionamiento en buscadores.",
+			"highlights": [
+				"Diseño web responsive",
+				"Diseño web moderno y profesional",
+				"Optimización SEO"
+			],
+			"url": "https://surenergy.com.bo/",
+			"github": ""
+		},
+		{
+			"name": "Aplicación web DENTIMAGEN 3D",
+			"isActive": true,
+			"description": "Desarrollé una aplicación web para la gestión de servicios radiográficos. La aplicación permitió registrar ventas, visualización de imágenes radiográficas, gestión de historiales médicos, generar informes, análisis de ventas y rendimiento, además de la entrega rápida de valor a los pacientes.",
+			"highlights": [
+				"Sistema web a medida",
+				"Gestión de historiales médicos",
+				"Centralización de información",
+				"Mejora en la toma de decisiones",
+				"Gestión de servicios radiográficos"
+			],
+			"url": "",
+			"github": ""
+		},
+		{
+			"name": "Aplicación web de Gestión de Inventario",
+			"isActive": true,
+			"description": "Desarrollé un sistema web a medida para la gestión de inventario para una empresa unipersonal. La aplicación permitió agilizar los procesos de gestión de inventario, centralizar la información de todos los activos de la empresa, mejorar la toma de decisiones estratégicas, análisis de ventas y rendimiento.",
+			"highlights": [
+				"Sistema web a medida",
+				"Gestión de inventario",
+				"Centralización de información",
+				"Mejora en la toma de decisiones"
+			],
+			"url": "",
+			"github": ""
+		}
+	]
+}

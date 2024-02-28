@@ -1,0 +1,78 @@
+---
+import Section from "../Section.astro";
+
+import { work } from "@cv";
+
+---
+
+<Section title="Esperience">
+    <ul>
+        {
+            work.map(
+                ({ name, startDate, endDate, position, summary, highlights}) => {
+                    //Parece que hay problemas con mi zona horaria y no es esperado el valor que devuelve.
+                    //para valores (2019-01-01) con mes y dia a 01 el valor devuelto de año es el anterior año al valor actual
+
+                    function dateFormat(value: string): Date {
+                        const dateValue = new Date(value);
+                        const timezonaOffset = dateValue.getTimezoneOffset() * 60 * 1000;
+                        const adjustedDate = new Date(dateValue.getTime() + timezonaOffset);
+                        return adjustedDate;
+                    }
+
+                    const startYear = dateFormat(startDate).getFullYear();
+                    const endYear = endDate != null ? dateFormat(endDate).getFullYear() : 'Actual';
+
+                    const years = `${startYear} - ${endYear}`;
+
+                    return (
+                        <li>
+                            <article>
+                                <header>
+                                    <div>
+                                        <h3>{name}</h3>
+                                        <h4>{position}</h4>
+                                    </div>
+                                    <time>{years}</time>
+                                </header>
+                                <footer>
+                                    <p>{summary}</p>
+                                </footer>
+                            </article>
+                        </li>
+                    )
+                }
+            )
+        }
+    </ul>
+</Section>
+
+<style>
+    ul {
+        display: flex;
+        flex-direction: column;
+        gap: 32px;
+    }
+
+    article h3 {
+        font-weight: 500;
+        color: #111;
+    }
+
+    article h4 {
+        font-weight: 400;
+        color: #222;
+    }
+
+    header {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        margin-bottom: 4px;
+    }
+
+    time {
+        color: #555;
+        font-size: 0.85rem;
+    }
+</style>
