@@ -1,6 +1,6 @@
 # Minimalist Portfolio
 
-> 🧑‍🚀 **Preview** Delete this file. Have fun!
+> 🧑‍🚀 **Preview**
 
 <img src="wep-preview.png"></img>
 
